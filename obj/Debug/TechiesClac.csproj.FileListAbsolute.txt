@@ -1,0 +1,10 @@
+C:\Users\MTK15\source\repos\TechiesClac\bin\Debug\TechiesClac.exe.config
+C:\Users\MTK15\source\repos\TechiesClac\bin\Debug\TechiesClac.exe
+C:\Users\MTK15\source\repos\TechiesClac\bin\Debug\TechiesClac.pdb
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.csprojAssemblyReference.cache
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.FormTechiesCalc.resources
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.Properties.Resources.resources
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.csproj.GenerateResource.cache
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.csproj.CoreCompileInputs.cache
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.exe
+C:\Users\MTK15\source\repos\TechiesClac\obj\Debug\TechiesClac.pdb
